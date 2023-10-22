@@ -10,4 +10,9 @@ sleep 1
 echo $! > .pidfile
 set +x
 
+<<<<<<< HEAD
 echo 'Your Node.js application is now running.'
+=======
+echo 'Your Node.js application is now running.'
+
+>>>>>>> 137d2e37afb8ec955930ba50b47127a78a549d6f
